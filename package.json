@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-live-app",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "ledger",
+    "live-app"
+  ],
+  "description": "The base Ledger Live App TypeScript template for Create React App.",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
